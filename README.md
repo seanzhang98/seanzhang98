@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seanzhang98&ASRock-Z390-Phantom-ITX-OpenCore-Hackintosh-BigSur" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seanzhang98&github-readme-stats" />
 </a>
 
 <!--
