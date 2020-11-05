@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seanzhang98&theme=Gradient&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seanzhang98&theme=radical&show_icons=true)
 
 <!--
 **seanzhang98/seanzhang98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
