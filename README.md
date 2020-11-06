@@ -1,9 +1,3 @@
-<a href="">
-  <img align="center" src="" />
-</a>
-</br>
-</br>
-
 
 <p align="center">
   <a href="http://antzuhl.cn:4000/get/@seanzhang98.readme">
