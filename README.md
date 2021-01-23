@@ -2,10 +2,6 @@
 <p align="center">
   👋 Hi there! Welcome to my profile page. 
   </br>
-  </br>
-  <a href="http://antzuhl.cn:4000/get/@seanzhang98.readme">
-      <img alt="" src="http://antzuhl.cn:4000/get/@seanzhang98.readme" />
-  </br>
 </br>
      <a href="https://github-readme-stats.vercel.app/api?username=seanzhang98&theme=radical&show_icons=true">
       <img alt="" src="https://github-readme-stats.vercel.app/api?username=seanzhang98&theme=radical&show_icons=true" />
