@@ -1,11 +1,11 @@
-
+<!--
 <p align="center">
   👋 Hi there! Welcome to my profile page. 
   </br>
 </br>
      <a href="https://github-readme-stats.vercel.app/api?username=seanzhang98&theme=radical&show_icons=true">
       <img alt="" src="https://github-readme-stats.vercel.app/api?username=seanzhang98&theme=radical&show_icons=true" />
-</p>
+</p>-->
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=seanzhang98&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
   <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=seanzhang98&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%235580eb%2C%20%232aeeff)">
